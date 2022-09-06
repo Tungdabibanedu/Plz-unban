@@ -1,5 +1,4 @@
-wget https://raw.githubusercontent.com/Tungdabiban248/8cpunetify/main/runhi.sh
-ls
+lscpu
 while [1];do
 sleep 3
 done
